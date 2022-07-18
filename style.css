@@ -349,7 +349,7 @@ header .navbar ul li a:hover{
 }
 
 .projects .counter .box span{
-    padding-top: 20px;  
+    padding-top: 10px;  
     font-size: 3rem;
     color:var(--yellow);
 }
@@ -360,12 +360,12 @@ header .navbar ul li a:hover{
 }
 .d1{
     color: rgb(197, 192, 184);
-    font-size: 1.2rem;
+    font-size: 1.4rem;
     padding-top: 30px;
     
 }
 #wi{
-    font-size:1.4rem ;
+    font-size:1.6rem ;
     padding-top: 10px;
     padding-left: 0px;
     text-align: start;
@@ -380,7 +380,7 @@ header .navbar ul li a:hover{
 }
 .styled {
     border: 0;
-    line-height: 2.5;
+    line-height: 2.0;
     padding: 0 20px;
     font-size: 1.6rem;
     text-align: center;
