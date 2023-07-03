@@ -14,9 +14,9 @@ The portfolio website, developed using HTML, CSS, and JavaScript, showcases an a
 
 2.User-Friendly Navigation:
 
-   The website boasts an intuitive and user-friendly navigation system. Users can easily explore different sections 
-   of the portfolio, such as the home page, about me, projects, skills, and accounts. Clear navigation menus, buttons, 
-   and links facilitate smooth navigation and provide a seamless browsing experience.
+   The website boasts an intuitive and user-friendly navigation system. Users can easily explore different sections  of the portfolio, such 
+   as the home page, about me, projects, skills, and accounts. Clear navigation menus, buttons,  and links facilitate smooth navigation and 
+   provide a seamless browsing experience.
 
 3.Home Page:
 
