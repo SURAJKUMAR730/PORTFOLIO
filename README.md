@@ -26,8 +26,8 @@ The portfolio website, developed using HTML, CSS, and JavaScript, showcases an a
 
 4. About Me Section:
 
-   The portfolio includes an "About Me" section that provides users with information about my background, skills, experience, and passions.
-   It may include a brief education details. This section helps users get to know you professionally and personally.
+   The portfolio includes an "About Me" section that provides users with information about my background, skills.
+   It also include a brief education details. This section helps users get to know you professionally and personally.
 
 5. Projects Showcase:
 
